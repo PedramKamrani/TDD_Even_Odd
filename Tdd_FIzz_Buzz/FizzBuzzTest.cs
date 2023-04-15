@@ -6,8 +6,7 @@ namespace Tdd_FIzz_Buzz
         public void Should_Return_Count()
         {
             var round = 100;
-            var fizzBuzzClass = new FizzBuzz();
-            var actual = fizzBuzzClass.Start(round);
+            var actual = FizzBuzz.Start(round);
             Assert.Equal(round, actual.Count);
         }
 
@@ -15,8 +14,7 @@ namespace Tdd_FIzz_Buzz
         public void Should_Return_Fizz()
         {
             const int round= 100;
-            var fizzBuzzClass= new FizzBuzz();
-            var actual= fizzBuzzClass.Start(round);
+            var actual= FizzBuzz.Start(round);
             Assert.Equal("Fizz", actual[3]);
         }
         [Fact]
