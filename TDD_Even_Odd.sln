@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fizz_Buzz", "Fizz_Buzz\Fizz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_Even_Odd_Two", "TDD_Even_Odd_Two\TDD_Even_Odd_Two.csproj", "{1148D3D1-540D-4F38-821D-FE2131CEA621}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tdd_FIzz_Buzz", "Tdd_FIzz_Buzz\Tdd_FIzz_Buzz.csproj", "{A9A29FC7-99FE-4888-8100-4CAD054E6196}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1148D3D1-540D-4F38-821D-FE2131CEA621}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1148D3D1-540D-4F38-821D-FE2131CEA621}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1148D3D1-540D-4F38-821D-FE2131CEA621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A29FC7-99FE-4888-8100-4CAD054E6196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A29FC7-99FE-4888-8100-4CAD054E6196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A29FC7-99FE-4888-8100-4CAD054E6196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A29FC7-99FE-4888-8100-4CAD054E6196}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
